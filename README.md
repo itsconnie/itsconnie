@@ -1,5 +1,16 @@
 ### Woah, how did you find me, well anyway have a party popper 🎉
 
+[![Friz's github stats](https://github-readme-stats.vercel.app/api?username=frizjack&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=frizjack&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frizjack&layout=compact&theme=tokyonight" />
+</a>
+
+
+
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
