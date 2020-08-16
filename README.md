@@ -17,7 +17,7 @@ Feel free to check out the rest of my profile... I suppose.
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-332072%20Lines%20of%20code-blue)
 
