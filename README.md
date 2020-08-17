@@ -19,21 +19,21 @@ Feel free to check out the rest of my profile... I suppose.
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-332072%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-332072%20Lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 90 Contributions in year 2020
+> 🏆 90 Contributions in the year 2020
  > 
-> 📦 Used 9.2 kB in GitHub's Storage 
+> 📦 9.2 kB Used in Github's Storage 
  > 
-> 🚫 Not opted to Hire
+> 🚫 Not Opted to Hire
  > 
-> 📜 1 Public Repository 
+> 📜 1 Public repository 
  > 
-> 🔑 20 Owned Private Repositories 
+> 🔑 20 Private repositories 
 
-**I'm a night 🦉** 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.94% 
@@ -42,7 +42,7 @@ Feel free to check out the rest of my profile... I suppose.
 🌙 Night      63 commits     ███████░░░░░░░░░░░░░░░░░░   30.58%
 
 ```
-📅 **I'm Most Productive on Mondays** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday       41 commits     █████░░░░░░░░░░░░░░░░░░░░   19.9% 
@@ -56,27 +56,27 @@ Sunday       38 commits     ████░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Europe/London
+⌚︎ Time zone: Europe/London
 
-💬 Languages: 
+💬 Programming Languages: 
 Lua                      9 mins              ████████████████████████░   96.93% 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.07%
 
-🔥 Editors: 
+🔥 Code Editors: 
 VS Code                  9 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
 Tales-of-the-Chungus     9 mins              █████████████████████████   100.0%
 
-💻 Operating Systems: 
+💻 Operating System: 
 Windows                  9 mins              █████████████████████████   100.0%
 
 ```
 
-**I mostly code in JavaScript** 
+**I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   26.32% 
