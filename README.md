@@ -19,19 +19,19 @@ Feel free to check out the rest of my profile... I suppose.
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-332072%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-332072%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 90 Contributions in the year 2020
+> 🏆 90 Contributions in the Year 2020
  > 
 > 📦 9.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 1 Public repository 
+> 📜 1 Public Repository 
  > 
-> 🔑 20 Private repositories 
+> 🔑 20 Private Repositories 
 
 **I'm a Night 🦉** 
 
@@ -56,16 +56,16 @@ Sunday       38 commits     ████░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time zone: Europe/London
+⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
 Lua                      9 mins              ████████████████████████░   96.93% 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.07%
 
-🔥 Code Editors: 
+🔥 Editors: 
 VS Code                  9 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
