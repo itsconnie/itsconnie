@@ -17,7 +17,7 @@ Feel free to check out the rest of my profile... I suppose.
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-332072%20lines%20of%20code-blue)
 
@@ -25,7 +25,7 @@ Feel free to check out the rest of my profile... I suppose.
 
 > 🏆 90 Contributions in the Year 2020
  > 
-> 📦 9.2 kB Used in Github's Storage 
+> 📦 9.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,7 +90,7 @@ TypeScript               1 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/frizjack/frizjack/blob/master/charts/bar_graph.png) 
+![Chart not found](https://github.com/JackOPXL/JackOPXL/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
