@@ -11,7 +11,7 @@ I'm currently employed as Content and Systems Manager for a family owned educati
 Feel free to check out the rest of my profile... I suppose.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img  src="https://github-readme-stats.vercel.app/api?username=frizjack&count_private=true&show_icons=true&theme=tokyonight" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=JackOPXL&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 
 
