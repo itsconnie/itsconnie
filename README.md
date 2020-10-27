@@ -19,13 +19,13 @@ Feel free to check out the rest of my profile... I suppose.
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-844072%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-827782%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 104 Contributions in the Year 2020
  > 
-> 📦 16.2 kB Used in Github's Storage 
+> 📦 16.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
