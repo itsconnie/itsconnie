@@ -29,9 +29,9 @@ Feel free to check out the rest of my profile... I suppose.
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 3 Public Repositories
+> 📜 3 Public Repositories 
  > 
-> 🔑 28 Private Repositories 
+> 🔑 28 Private Repositories  
 
 **I'm a Night 🦉** 
 
