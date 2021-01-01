@@ -23,9 +23,9 @@ Feel free to check out the rest of my profile... I suppose.
 
 **🐱 My Github Data** 
 
-> 🏆 113 Contributions in the Year 2020
+> 🏆 0 Contributions in the Year 2021
  > 
-> 📦 81.9 kB Used in Github's Storage 
+> 📦 82.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
