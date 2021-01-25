@@ -19,19 +19,19 @@ Feel free to check out the rest of my profile... I suppose.
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-189734%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-192781%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 1 Contributions in the Year 2021
  > 
-> 📦 82.0 kB Used in Github's Storage 
+> 📦 82.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 3 Public Repositories 
  > 
-> 🔑 33 Private Repositories  
+> 🔑 34 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -85,11 +85,11 @@ Windows                  27 hrs 49 mins      ███████████�
 **I Mostly Code in CSS** 
 
 ```text
-CSS                      7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.88% 
-JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-HTML                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-Lua                      6 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+CSS                      7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.21% 
+JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+HTML                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+Lua                      6 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.15%
 
 ```
 
