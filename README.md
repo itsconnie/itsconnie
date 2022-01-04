@@ -62,16 +62,21 @@ Sunday       37 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Svelte                   1 hr 52 mins        ██████████████████░░░░░░░   72.34% 
+TypeScript               29 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
+HTML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.95% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 36 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+aetherairlines.us        2 hrs 8 mins        ████████████████████░░░░░   82.61% 
+systems.aetherairlines.us27 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.39%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 36 mins       █████████████████████████   100.0%
 
 ```
 
@@ -92,6 +97,6 @@ Lua                      6 repos             ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JackOPXL/JackOPXL/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/01/2022
+ Last Updated on 04/01/2022
 <!--END_SECTION:waka-->
 
