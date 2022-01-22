@@ -25,7 +25,7 @@ Feel free to check out the rest of my profile... I suppose.
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 83.5 kB Used in GitHub's Storage 
+> 📦 83.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,6 +99,6 @@ Lua                      6 repos             ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JackOPXL/JackOPXL/master/charts/bar_graph.png) 
 
 
- Last Updated on 21/01/2022 01:04:53 UTC
+ Last Updated on 22/01/2022 01:02:43 UTC
 <!--END_SECTION:waka-->
 
