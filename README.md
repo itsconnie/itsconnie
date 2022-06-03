@@ -27,7 +27,7 @@ Feel free to check out the rest of my profile... I suppose.
 
 > 🏆 12 Contributions in the Year 2022
  > 
-> 📦 149.4 kB Used in GitHub's Storage 
+> 📦 149.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,15 +64,13 @@ Sunday       16 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JSON                     0 secs              ███████████████████░░░░░░   75.61% 
-INI                      0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.39%
+INI                      0 secs              █████████████████████████   100.0%
 
 🔥 Editors: 
 VS Code                  0 secs              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-ggdr-game-control        0 secs              ███████████████████░░░░░░   75.61% 
-WindowsNoEditor          0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.39%
+WindowsNoEditor          0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
 Windows                  0 secs              █████████████████████████   100.0%
@@ -96,6 +94,6 @@ JavaScript               5 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JackOPXL/JackOPXL/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/06/2022 01:56:59 UTC
+ Last Updated on 03/06/2022 01:39:58 UTC
 <!--END_SECTION:waka-->
 
