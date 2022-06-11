@@ -64,16 +64,21 @@ Sunday       16 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      2 hrs 31 mins       ████████████████░░░░░░░░░   64.23% 
+SCSS                     1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   26.09% 
+JSON                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.29% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 56 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+friz-pw                  3 hrs 48 mins       ████████████████████████░   96.88% 
+Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 56 mins       █████████████████████████   100.0%
 
 ```
 
@@ -94,6 +99,6 @@ JavaScript               5 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JackOPXL/JackOPXL/master/charts/bar_graph.png) 
 
 
- Last Updated on 10/06/2022 01:54:26 UTC
+ Last Updated on 11/06/2022 01:48:30 UTC
 <!--END_SECTION:waka-->
 
