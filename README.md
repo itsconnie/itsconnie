@@ -64,21 +64,16 @@ Sunday       12 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-SCSS                     2 hrs 32 mins       ████████████████░░░░░░░░░   65.82% 
-HTML                     58 mins             ██████░░░░░░░░░░░░░░░░░░░   25.39% 
-TypeScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.23% 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.98% 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 52 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-kappow-demo              3 hrs 32 mins       ███████████████████████░░   91.67% 
-ffms                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 52 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -99,6 +94,6 @@ JavaScript               5 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JackOPXL/JackOPXL/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/06/2022 01:59:58 UTC
+ Last Updated on 29/06/2022 02:03:05 UTC
 <!--END_SECTION:waka-->
 
