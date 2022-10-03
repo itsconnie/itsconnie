@@ -19,7 +19,7 @@ Feel free to check out the rest of my profile... I suppose.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-576%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-212%20Thousand%20lines%20of%20code-blue)
 
@@ -103,6 +103,6 @@ Lua                      6 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JackOPXL/JackOPXL/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/10/2022 02:31:33 UTC
+ Last Updated on 03/10/2022 02:02:38 UTC
 <!--END_SECTION:waka-->
 
