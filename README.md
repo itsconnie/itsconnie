@@ -17,7 +17,7 @@ Feel free to check out the rest of my profile... I suppose.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-585%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-585%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -99,6 +99,6 @@ Lua                      6 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JackOPXL/JackOPXL/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/10/2022 02:38:17 UTC
+ Last Updated on 15/10/2022 02:30:32 UTC
 <!--END_SECTION:waka-->
 
