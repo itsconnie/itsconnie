@@ -64,16 +64,20 @@ Sunday       10 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+SCSS                     42 mins             ████████████░░░░░░░░░░░░░   49.44% 
+PHP                      39 mins             ███████████░░░░░░░░░░░░░░   45.17% 
+CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.96% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 26 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+FedCouncil               1 hr 26 mins        █████████████████████████   99.72% 
+ejustice                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 26 mins        █████████████████████████   100.0%
 
 ```
 
@@ -94,6 +98,6 @@ Lua                      6 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JackOPXL/JackOPXL/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/10/2022 02:04:48 UTC
+ Last Updated on 28/10/2022 02:12:34 UTC
 <!--END_SECTION:waka-->
 
